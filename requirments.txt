@@ -1,7 +1,6 @@
-Package       Version
-------------- ---------
-numpy         2.2.2
-opencv-python 4.11.0.86
-pip           23.0.1
-setuptools    66.1.1
-wheel         0.38.4
+
+numpy==2.2.2
+opencv-python==4.11.0.86
+pip==23.0.1
+setuptools==66.1.1
+wheel==0.38.4
